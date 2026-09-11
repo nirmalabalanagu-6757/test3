@@ -1,0 +1,225 @@
+INTEGRATION INSTRUCTIONS FOR CLAUDE / CODING MODEL
+
+Goal
+----
+Integrate the provided generic Execution Tracing backend and Agent Traces TSX page
+into the EXISTING application.
+
+Important rules
+---------------
+1. Inspect the existing repository first.
+2. Reuse existing:
+   - React component library / design system
+   - routing
+   - navigation
+   - API client
+   - auth / RBAC
+   - SQLAlchemy / ORM conventions
+   - database migration framework
+   - logging
+   - agent runner
+   - tool registry
+   - model invocation layer
+   - cache layer
+3. Do NOT replace working architecture just to match these sample files.
+4. Treat execution_tracing.py and AgentTracesPage.tsx as reference implementations.
+5. Make minimum compatible changes.
+6. Keep TraceManager generic. Do NOT hard-code Backup, Oracle, PostgreSQL, Snow,
+   FinOps or any other domain inside the tracing framework.
+
+Required trace model
+--------------------
+One inbound request/workflow = one trace_id.
+Each operation inside it = one hierarchical span.
+
+Generic span examples:
+- router
+- agent
+- prompt
+- model
+- tool
+- rag
+- cache
+- database
+- api
+- workflow
+- response
+- custom future span types
+
+Required hierarchy example
+--------------------------
+run_agent [concierge]       1,243 ms   1,306 tokens
+ ├─ route_request             118 ms      65 tokens
+ ├─ run_agent [backup]        892 ms   1,021 tokens
+ │   ├─ prompt_build           12 ms     640 tokens
+ │   ├─ tool_call             420 ms       0 tokens
+ │   │   └─ get_backup_status
+ │   └─ llm_response          460 ms     381 tokens
+ └─ format_response            75 ms     220 tokens
+
+Required token fields
+---------------------
+Capture independently:
+- system prompt tokens
+- user prompt tokens
+- conversation history tokens
+- tool-definition tokens
+- retrieved context / RAG tokens
+- model output tokens
+
+Capture savings independently:
+- cache savings
+- conversation/history trimming savings
+- dynamic-tool-filtering savings
+- context/RAG-filtering savings
+- direct-tool-path savings
+
+Execution paths
+---------------
+Support:
+- agent
+- direct_tool
+- cache
+- workflow
+
+Direct Tool Path
+----------------
+A deterministic/simple intent may execute a registered tool without an LLM.
+It MUST still generate a trace.
+
+Example:
+executionPath = direct_tool
+tool = get_backup_status
+llmCalls = 0
+totalTokens = 0
+directToolSaved = estimated avoided tokens
+
+Persistence
+-----------
+Adapt to existing DB patterns. Prefer normalized storage:
+
+execution_traces
+- id
+- request_id
+- name
+- root_agent
+- selected_agent
+- user_query (optional/configurable)
+- status
+- execution_path
+- model
+- intent
+- routing_confidence
+- cache_status
+- started_at
+- completed_at
+- duration_ms
+- tool_calls
+- llm_calls
+- input_tokens
+- output_tokens
+- total_tokens
+- tokens_saved
+- metadata_json
+- error_message
+
+execution_spans
+- id
+- trace_id
+- parent_span_id
+- name
+- span_type
+- service_name
+- agent_name
+- tool_name
+- status
+- started_at
+- completed_at
+- duration_ms
+- input_tokens
+- output_tokens
+- total_tokens
+- metadata_json
+
+token_breakdowns
+- trace_id
+- system_prompt
+- user_prompt
+- conversation_history
+- tool_definitions
+- retrieved_context
+- model_output
+- cache_saved
+- history_saved
+- tool_filtering_saved
+- context_filtering_saved
+- direct_tool_saved
+
+If the project already has equivalent tables/models, extend/reuse them instead.
+
+API
+---
+Adapt naming to existing conventions, but provide equivalent functionality:
+
+GET /api/admin/traces
+GET /api/admin/traces/{trace_id}
+GET /api/admin/traces/stats
+
+Recommended filters:
+- agent
+- status
+- execution_path
+- model
+- cache_status
+- date range
+- trace_id/request_id search
+
+UI
+--
+Use the existing application's styling/components.
+
+The trace detail page must preserve this readable hierarchical tree:
+run_agent [concierge]       duration     tokens
+ ├─ route_request
+ ├─ run_agent [selected agent]
+ │   ├─ prompt_build
+ │   ├─ tool_call
+ │   │   └─ tool_name
+ │   └─ llm_response
+ └─ format_response
+
+Clicking a span should show safe metadata.
+
+Security
+--------
+Before persistence, redact:
+- passwords
+- API keys
+- Authorization headers
+- access/refresh tokens
+- cookies
+- private keys
+- client secrets
+- connection credentials
+
+Do not persist full prompts/tool results by default.
+Prefer counts + metadata.
+If full diagnostic capture already exists, respect the project's authorization and retention controls.
+
+Performance
+-----------
+Tracing must not break user requests if trace persistence fails.
+Prefer:
+- lightweight in-request span collection
+- asynchronous/batched persistence if existing architecture supports it
+- indexes on trace_id, request_id, agent, status, started_at
+- retention policy for old traces
+
+Compatibility step
+------------------
+BEFORE modifying code:
+1. Identify existing files/classes/services that correspond to tracing, token tracking,
+   agent execution, tool execution and frontend pages.
+2. Explain conflicts with these sample files.
+3. Propose a minimum-change integration plan.
+4. Only then implement the changes.
