@@ -1,0 +1,11 @@
+Abstract
+
+The rapid advancement of quantum computing presents a long-term cybersecurity challenge to widely deployed public-key cryptographic algorithms such as RSA and Elliptic Curve Cryptography (ECC). Post-Quantum Cryptography (PQC) provides quantum-resistant cryptographic algorithms designed to protect sensitive information against both classical and future quantum-enabled attacks. However, migrating existing enterprise environments to PQC is a complex process due to dependencies across applications, databases, certificates, communication protocols, and infrastructure.
+
+This paper proposes a practical framework for assessing and preparing enterprise systems for migration to Post-Quantum Cryptography. The approach focuses on cryptographic asset discovery, identification of quantum-vulnerable algorithms, risk classification, crypto-agility, and phased migration to standardized PQC algorithms such as ML-KEM for key establishment and ML-DSA for digital signatures.
+
+A Proof of Concept (POC) is presented to demonstrate the migration approach by establishing a quantum-resistant secure communication workflow and comparing conventional and post-quantum cryptographic mechanisms. The POC evaluates factors including key and signature sizes, processing time, compatibility, and implementation considerations.
+
+The proposed framework demonstrates how organizations can begin preparing for the post-quantum era without waiting for large-scale quantum computers to become available. The work provides a practical cybersecurity migration strategy that combines PQC readiness assessment, crypto-agility, automation, and controlled implementation while minimizing disruption to existing enterprise systems.
+
+Keywords: Post-Quantum Cryptography, PQC, Quantum Computing, Cybersecurity, ML-KEM, ML-DSA, Crypto-Agility, Cryptographic Migration, Quantum-Safe Security
