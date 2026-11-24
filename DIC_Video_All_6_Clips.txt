@@ -1,0 +1,204 @@
+DIC FUTURE VISION: VIDEO PROMPTS FOR ALL SIX CLIPS
+
+Project: Private & Public Cloud Services (DIC)
+Planned duration: 48 seconds (six clips of 8 seconds each)
+Format: 16:9 landscape
+Narration: Professional English
+Prepared: 24 November 2026
+
+PURPOSE
+
+Explain how a business request moves through the proposed DIC future operating model: request, assessment and planning, policy and approval, execution, validation and recovery, and measurement for improvement.
+
+This is a future vision. The video should describe the proposed role of the agents without implying that every capability is already deployed.
+
+SOURCE IMAGE
+
+Use: Airbus_DIC_Future_Vision.png
+Image link:
+https://chatgpt.com/library?file_id=libfile_0626cf7c45dc8191a16ab273f0bb4c13&account_id=personal
+
+Use the actual PNG infographic as the reference image.
+
+HOW TO USE THIS DOCUMENT
+
+1. In Gemini, open the sidebar and choose Create video.
+2. Upload Airbus_DIC_Future_Vision.png using Add image.
+3. Use 16:9 landscape and leave decorative style templates unselected.
+4. Copy the text between PROMPT START and PROMPT END for Clip 1 and generate that clip.
+5. Continue in the same conversation with Clips 2 to 6, generating one clip at a time. Keep the original infographic available as the reference; attach it again if needed.
+6. If you start a new conversation, include Clip 1's visual and content rules with the prompt for the scene you are creating.
+7. Download each completed clip before moving to the next.
+8. Combine the six clips in order in Google Vids or your usual video editor, then export one MP4.
+
+Generate the clips separately. The full document is a production guide, not a request to generate a 48-second clip in one operation.
+
+The settings and available generation options depend on the account and interface. The official help links at the end explain the current workflow.
+
+CLIP ORDER
+
+Clip 1 | 00:00-00:08 | Business request
+Clip 2 | 00:08-00:16 | Assess and plan
+Clip 3 | 00:16-00:24 | Policies and approvals
+Clip 4 | 00:24-00:32 | Execute the work
+Clip 5 | 00:32-00:40 | Validate and recover
+Clip 6 | 00:40-00:48 | Measure and improve
+
+CLIP 1: BUSINESS REQUEST
+Final timeline position: 00:00-00:08
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create an 8-second professional corporate explainer video using the uploaded DIC infographic. Use 16:9 landscape. This is the first of six clips explaining a proposed future operating model.
+
+Use gentle zooms, cyan section highlights, and moving pulses along existing arrows. Preserve the original design, branding, and readable text. Keep the aircraft and background still.
+
+Preserve all 15 agent names exactly: PSL FAQs, Automation, Cyber Security, NAS Storage, DB Assistant, R2P, Control-M, Backup, FinOps, CRE Agent, Mainframe Agent, Cloud Agent, CMDB, Compute, and OCP Agent.
+
+Keep "Future Vision" visible. Keep "Database" generic. Do not introduce Azure, Oracle, PostgreSQL, Concierge, Snow Inventory Agent, or Scheduling. Do not add subtitles or new small text.
+
+Use calm, clear professional English narration. Pronounce DIC as "D I C". Keep these visual and narration rules for subsequent clips.
+
+Scene: Begin with the complete infographic. Gently highlight the Business Needs panel, then the "Request" stage in the bottom service journey.
+
+Narration:
+"This DIC future vision begins with a business request for a new or improved IT service."
+
+Generate the video with this narration.
+
+PROMPT END
+
+
+CLIP 2: ASSESS AND PLAN
+Final timeline position: 00:08-00:16
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create a new, separate 8-second clip from the same original infographic. Use 16:9 landscape and retain all the visual, text-preservation, and narration rules from clip 1.
+
+Scene: Highlight "Assess & Plan" in the bottom workflow. Move attention to the agent orchestration section. Illuminate the three rows of agents in sequence, with a brief highlight on CMDB to represent dependency information.
+
+Narration:
+"Specialized agents assess requirements and dependencies, then plan the work across the available cloud and platform services."
+
+Keep the narration clear and unhurried.
+
+PROMPT END
+
+
+CLIP 3: POLICIES AND APPROVALS
+Final timeline position: 00:16-00:24
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create a new, separate 8-second clip from the original infographic. Keep the same landscape format, appearance, and professional English narration.
+
+Scene: Highlight "Policy & Approval" in the bottom workflow, followed by the Human Governance panel. Use a subtle checkmark animation and a gentle pulse toward the orchestration layer.
+
+Narration:
+"Policies define what agents may do. People approve critical actions and remain accountable for the service."
+
+Preserve the future-vision framing and all existing labels.
+
+PROMPT END
+
+
+CLIP 4: EXECUTE THE WORK
+Final timeline position: 00:24-00:32
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create a new, separate 8-second clip from the original infographic. Preserve the same design, exact wording, and narration style.
+
+Scene: Highlight "Execute" in the bottom workflow. Animate a controlled pulse from the agent orchestration section toward Private Cloud, Public Cloud, and the Unified Cloud Foundation. Show coordinated activity through highlights on the existing elements.
+
+Narration:
+"After approval, the selected agents coordinate provisioning and operational tasks across private cloud, public cloud, and shared infrastructure."
+
+Keep all text stable and readable.
+
+PROMPT END
+
+
+CLIP 5: VALIDATE AND RECOVER
+Final timeline position: 00:32-00:40
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create a new, separate 8-second clip using the original infographic. Maintain the same landscape format and professional narration style.
+
+Scene: Highlight "Validate & Recover". Gently illuminate Observability and Backup, followed by a subtle health-check pulse. Briefly highlight Human Governance to represent escalation when assistance is needed.
+
+Narration:
+"The workflow checks service health and task results, applies approved recovery when needed, and escalates unresolved issues."
+
+Preserve the original labels and future operating model.
+
+PROMPT END
+
+
+CLIP 6: MEASURE AND IMPROVE
+Final timeline position: 00:40-00:48
+Clip duration: 8 seconds
+
+PROMPT START
+
+Create a new, separate 8-second closing clip from the original infographic. Keep the same design and narration style.
+
+Scene: Highlight "Measure & Improve". Illuminate the three outcome cards in order: Operations Management, Operational Excellence, and Service Delivery. Finish with the complete infographic clearly visible, including the Future Vision heading and all 15 agents.
+
+Narration:
+"Measured results guide continuous improvement, supporting operations management, operational excellence, and consistent service delivery."
+
+Finish with a steady final frame. Do not add new text or make claims about guaranteed results.
+
+PROMPT END
+
+OPTIONAL: COMPLETE CONTINUOUS NARRATION
+
+Use this as one voiceover if you prefer to record or generate a single continuous narration after assembling the visuals. Match its pace to the 48-second timeline and pronounce DIC as "D I C".
+
+This DIC future vision begins with a business request for a new or improved IT service. Specialized agents assess requirements and dependencies, then plan the work across the available cloud and platform services. Policies define what agents may do. People approve critical actions and remain accountable for the service. After approval, the selected agents coordinate provisioning and operational tasks across private cloud, public cloud, and shared infrastructure. The workflow checks service health and task results, applies approved recovery when needed, and escalates unresolved issues. Measured results guide continuous improvement, supporting operations management, operational excellence, and consistent service delivery.
+
+ASSEMBLE AND DOWNLOAD THE FINISHED VIDEO
+
+1. Download each Gemini clip using the video's Share > Download video controls.
+2. Open a landscape project in Google Vids or your usual video editor.
+3. Import Clips 1 to 6 and arrange them in order.
+4. Check the clip timing and narration transitions. Use the continuous narration above if you want one voiceover for the entire video.
+5. Keep transitions restrained so they do not interrupt the explanation.
+6. Export the completed video as an MP4.
+
+CONTENT AND QUALITY CHECK
+
+- The title is Private & Public Cloud Services (DIC).
+- Future Vision remains visible.
+- All 15 agents are retained with their approved spelling.
+- Cyber Security remains two words.
+- Control-M replaces Scheduling.
+- OCP Agent is included.
+- Database stays generic, with no Oracle or PostgreSQL names.
+- Azure, Concierge, and Snow Inventory Agent remain absent.
+- The three intended outcomes are Operations Management, Operational Excellence, and Service Delivery.
+- Human Governance remains part of the operating model.
+- The video does not promise guaranteed results or unrestricted autonomy.
+- Check every generated clip for changed, blurred, or distorted text.
+
+For exact text preservation, place the original PNG directly into Google Vids and add highlights, shapes, and narration around it. This keeps the approved diagram's lettering intact.
+
+OFFICIAL WORKFLOW REFERENCES
+
+Google Gemini: Generate videos with Gemini Apps
+https://support.google.com/gemini/answer/16126339?hl=en
+
+Google Vids: Get started
+https://support.google.com/docs/answer/15082958?hl=en
+
+Google Vids: Add images, GIFs or video clips
+https://support.google.com/docs/answer/14917464?hl=en-GB
+
