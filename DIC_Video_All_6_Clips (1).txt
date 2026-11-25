@@ -1,0 +1,220 @@
+DIC FUTURE VISION — SIX VIDEO PROMPTS, TEN SECONDS EACH
+Latest update: CRE Agent — Team Routing & Support
+Source: latest Private & Public Cloud Services (DIC) infographic
+Updated: 25 November 2026
+Planned duration: 60 seconds when six exact 10-second exports are joined with straight cuts
+Format: 16:9 landscape; request 1920 x 1080 if supported
+Language: English
+
+HOW TO USE
+1. Upload the latest DIC image for EACH clip. Use the version with the CRE Agent role panel: Team Routing & Support.
+2. Set the video duration to 10 seconds and use landscape 16:9. Select 1080p if offered. Check the actual exported duration; a prompt alone cannot guarantee it.
+3. Copy ONE complete prompt below for each generation. Do not paste all six into one generation.
+4. Use the same narrator and visual settings across all clips. Every prompt includes its own settings and narration.
+5. Save the videos in order as DIC_01.mp4 through DIC_06.mp4.
+6. Join them with straight cuts. Six 10-second clips make 60 seconds; overlapping transitions change that duration.
+7. If the generator has no narration feature, use the visual prompts and record the supplied narration separately. Add accurate captions in your video editor if needed.
+8. Optional: add one continuous quiet music track after joining. Individual clip prompts request no music.
+
+LATEST CRE UPDATE
+- CRE Agent remains one of the 15 specialist agents.
+- CRE identifies the appropriate team, routes requests with relevant context, coordinates additional help when needed, and directs unresolved issues to the responsible support team or incident owner.
+- Show the latest role panel, CRE team routing under Assess & Plan, and CRE routes to incident owner on the amber route.
+- Routing does not mean broadcasting every request to all teams. CRE coordinates help; specialist teams and agents perform their approved work.
+- Existing ITIL change controls, human approvals, approved scope and change windows remain part of the workflow.
+
+SOURCE REQUIREMENTS
+- Exact title: Private & Public Cloud Services (DIC). Use DIC, never DICS.
+- This is a future vision; do not describe it as proof of an already deployed platform.
+- Preserve the source artwork, labels, icons, logos, arrows, and all 15 agent cards exactly once.
+1. Automation
+2. Cyber Security
+3. NAS Storage
+4. DB Assistant
+5. R2P
+6. Control-M
+7. Backup
+8. FinOps
+9. CRE Agent
+10. Mainframe Agent
+11. Cloud Agent
+12. CMDB
+13. Compute
+14. OCP Agent
+15. ITIL Change Process Agent
+- Keep Cyber Security as two words. Use Control-M, not Scheduling.
+- Keep the Database foundation label generic; do not add Oracle or PostgreSQL.
+- Do not add PSL FAQs, Concierge, Snow Inventory Agent or Azure branding.
+- Shared Operational Capabilities are supporting capabilities, not additional agents.
+- Keep all four shared capabilities: Approved Runbooks; Service Validation; Incident & Problem Management; Agent Evaluation & Release.
+- Keep Agent Evaluation & Release: Test | Validate | Approve | Release.
+- Preserve Workflow Control & Recovery: Persistent State | Resource Locks | Policy Gates | Audit Evidence | Controlled Retries.
+- Preserve Human Governance, Permitted Autonomy, Approved scope & change window, verified CMDB context, and the amber recovery/escalation route.
+- Preserve the four Service Performance labels without inventing numeric targets.
+- For narration only, pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. Do not expand CRE.
+- Regenerate a clip if the generator changes labels, adds/removes agents, invents approval status or misrepresents the CRE role.
+
+CLIP ORDER
+01. 00:00–00:10 — Business needs and cloud services
+02. 00:10–00:20 — CRE Agent — team routing and support
+03. 00:20–00:30 — Controlled changes and shared capabilities
+04. 00:30–00:40 — Human governance and permitted autonomy
+05. 00:40–00:50 — Unified foundation and verified service context
+06. 00:50–01:00 — Service journey, recovery and measured outcomes
+
+========================================================================
+CLIP 1 — BUSINESS NEEDS AND CLOUD SERVICES
+Duration: 10 seconds | Final sequence: 00:00–00:10
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+0–1 seconds: hold the full image, including the DIC title and Future Vision subtitle.
+1–3 seconds: gently emphasize Business Needs and its existing cyan connection to cloud services.
+3–8 seconds: frame Private Cloud, Hybrid Cloud Services and Public Cloud together; softly illuminate their existing connections.
+8–9 seconds: return smoothly to the complete image.
+9–10 seconds: hold the complete image still.
+
+NARRATION — use exactly:
+This D I C future vision connects business needs with coordinated private and public cloud services.
+
+========================================================================
+CLIP 2 — CRE AGENT — TEAM ROUTING AND SUPPORT
+Duration: 10 seconds | Final sequence: 00:10–00:20
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+0–1 seconds: hold the full image.
+1–3 seconds: frame the complete 15-agent grid and softly highlight the existing CRE Agent card.
+3–6 seconds: emphasize the existing CRE Agent role panel: Team Routing & Support; Routes requests to the right team; Coordinates help and escalation.
+6–8 seconds: softly highlight CRE team routing under Assess & Plan. Show targeted routing and coordination, without adding arrows or implying every request goes to every team.
+8–9 seconds: return smoothly to the complete image.
+9–10 seconds: hold the complete image still.
+
+NARRATION — use exactly:
+Fifteen agents support approved workflows. CRE Agent routes requests to the right teams and coordinates help.
+
+========================================================================
+CLIP 3 — CONTROLLED CHANGES AND SHARED CAPABILITIES
+Duration: 10 seconds | Final sequence: 00:20–00:30
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+0–1 seconds: hold the full image.
+1–3 seconds: softly highlight the ITIL Change Process Agent.
+3–5 seconds: highlight the existing Workflow Control & Recovery band: Persistent State, Resource Locks, Policy Gates, Audit Evidence and Controlled Retries.
+5–8 seconds: emphasize the Shared Operational Capabilities panel as a whole: Approved Runbooks; Service Validation; Incident & Problem Management; Agent Evaluation & Release. Gently illuminate the existing Test | Validate | Approve | Release sequence. Keep these capabilities separate from the 15-agent count.
+8–9 seconds: return smoothly to the complete image.
+9–10 seconds: hold the complete image still.
+
+NARRATION — use exactly:
+The ITIL Change Process Agent supports controlled changes through approved runbooks, workflow controls, validation, and tested agent releases.
+
+========================================================================
+CLIP 4 — HUMAN GOVERNANCE AND PERMITTED AUTONOMY
+Duration: 10 seconds | Final sequence: 00:30–00:40
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+0–1 seconds: hold the full image.
+1–3 seconds: gently frame Human Governance and Approved scope & change window.
+3–6 seconds: softly highlight each existing permission mode: Recommend; Execute with Approval; Pre-authorized Routine Actions. Keep the checkboxes unchanged and do not depict automatic progression between modes.
+6–8 seconds: emphasize the existing purple approval connections. Keep critical approvals and accountability visible.
+8–9 seconds: return smoothly to the complete image.
+9–10 seconds: hold the complete image still.
+
+NARRATION — use exactly:
+Human governance defines permitted autonomy, approved scope, and change windows, with critical approvals and clear accountability.
+
+========================================================================
+CLIP 5 — UNIFIED FOUNDATION AND VERIFIED SERVICE CONTEXT
+Duration: 10 seconds | Final sequence: 00:40–00:50
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+0–1 seconds: hold the full image.
+1–4 seconds: gently frame the Unified Cloud Foundation: Compute, Storage, Network, Database, Security, Observability, and CMDB & Digital Twin.
+4–7 seconds: softly emphasize Verified Inventory & Dependencies and Service Owner | Last Verified in the CMDB & Digital Twin section.
+7–8 seconds: softly highlight Assess & Plan, keeping the existing artwork and connections unchanged.
+8–9 seconds: return smoothly to the complete image.
+9–10 seconds: hold the complete image still.
+
+NARRATION — use exactly:
+Verified inventory, dependencies, and service ownership guide assessment and planning across the unified cloud foundation.
+
+========================================================================
+CLIP 6 — SERVICE JOURNEY, RECOVERY AND MEASURED OUTCOMES
+Duration: 10 seconds | Final sequence: 00:50–01:00
+COPY THE ENTIRE PROMPT BELOW
+
+Create ONE image-to-video clip lasting exactly 10 seconds using the attached latest DIC infographic. Use 16:9 landscape and 1920 x 1080 if supported.
+
+Treat the image as fixed artwork. Preserve all existing text, logos, arrows and exactly 15 agent cards. CRE Agent is one of those 15; its role panel is an explanation, not another agent. Keep DIC, Cyber Security, Control-M and Database unchanged. Add no new text, captions, agent cards or objects.
+
+Use gentle camera movement and soft highlights: cyan for service flow, purple for approvals and amber for exceptions. Start and end with the complete image visible. Present this as a future vision.
+
+Use the same calm, professional English narrator for every clip, with no music. Speak only the narration below, starting around 0.5 seconds and finishing by 9 seconds. Pronounce DIC as D-I-C, CRE as C-R-E and ITIL as eye-till. If audio generation is unavailable, produce the visuals and add the supplied narration later.
+
+VISUAL TIMING
+Keep the complete infographic visible throughout this clip; use highlights rather than rapid camera moves.
+0–1 seconds: hold the full image.
+1–4 seconds: move a soft cyan glow across the six existing journey stages in order: Requests & Events; Assess & Plan; Policy & Approval; Execute; Validate & Recover; Measure & Improve.
+4–6 seconds: softly emphasize the amber Pause / Recover / Escalate branch, CRE routes to incident owner, and Record recovery outcome. Preserve Check actual state | Approved recovery | Named owner. Do not imply that every failure recovers automatically.
+6–8 seconds: highlight Service Performance: Availability, Change Success, Recovery Time and Request Completion Time. Add no numeric values.
+8–10 seconds: fade the temporary highlights and hold the full image as the closing shot.
+
+NARRATION — use exactly:
+Validate results and use approved recovery. CRE routes unresolved issues to incident owners; measured outcomes guide improvement.
+
+========================================================================
+NARRATION ONLY — OPTIONAL RECORDING SCRIPT
+Clip 1: This D I C future vision connects business needs with coordinated private and public cloud services.
+Clip 2: Fifteen agents support approved workflows. CRE Agent routes requests to the right teams and coordinates help.
+Clip 3: The ITIL Change Process Agent supports controlled changes through approved runbooks, workflow controls, validation, and tested agent releases.
+Clip 4: Human governance defines permitted autonomy, approved scope, and change windows, with critical approvals and clear accountability.
+Clip 5: Verified inventory, dependencies, and service ownership guide assessment and planning across the unified cloud foundation.
+Clip 6: Validate results and use approved recovery. CRE routes unresolved issues to incident owners; measured outcomes guide improvement.
+
+EXPORT CHECK
+Check that each clip is exactly 10 seconds, uses the latest image, preserves the 15 agents and correct labels, and ends its narration before the closing hold. Confirm CRE routing and incident-owner escalation are represented correctly. Join clips 01 to 06 in order.
+
+These are generation prompts and narration scripts; this document is not a rendered video.
