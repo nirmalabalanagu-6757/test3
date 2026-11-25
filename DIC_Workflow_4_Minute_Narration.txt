@@ -1,0 +1,195 @@
+DIC WORKFLOW — FOUR-MINUTE STEP-BY-STEP NARRATION
+Based on the latest Private & Public Cloud Services (DIC) future-vision image
+Prepared: 25 November 2026
+
+DURATION AND USE
+12 steps × 20 seconds = 4 minutes.
+Each step has two separate 10-second narration clips: 24 clips in total.
+Generate or record each clip separately, then join them in order with straight cuts. The final video lasts four minutes when every clip is exactly 10 seconds.
+This is a narration script and visual guide, not a rendered video or a claim that the proposed system is already deployed.
+
+DELIVERY SETTINGS
+- Use the latest image: larger clouds, aircraft/manufacturing-plant background, 15 agents, compact Human Governance, and no Unified Cloud Foundation section.
+- Keep the same clear English narrator, 16:9 layout, and visual style across all clips.
+- Speak only the narration lines. Do not read the section headings, timing labels, or visual directions aloud.
+- Each narration contains 15–21 words. Speak naturally, then pause for the remaining time. Check the actual export duration.
+- Pronounce DIC as D-I-C, CRE as C-R-E, CMDB as C-M-D-B, OCP as O-C-P, DB as D-B, AWS as A-W-S, R2P as R-two-P, and ITIL as eye-till. Do not expand CRE or R2P.
+- Use gentle framing and highlights. Cyan indicates service flow, purple indicates approvals, and amber indicates recovery or escalation.
+- Highlight only existing labels and connections; do not add missing sections or change agent names.
+- If narration is unsupported by the generator, add these voiceovers in the editor.
+
+RUNNING EXAMPLE
+A business application requests additional database storage. CRE routes it to the relevant teams. They assess the request, follow the required change approval process, execute the approved work, validate the service, and record the outcome or escalate any unresolved issue.
+
+======================================================================
+STEP 1 — PURPOSE AND BUSINESS NEEDS
+Sequence: 00:00–00:20 | Duration: 20 seconds
+Show / highlight: Title and Business Needs panel
+
+CLIP 01 | 00:00–00:10 | 10 seconds
+NARRATION:
+This D I C future vision connects business needs, cloud services, and specialist agents to support controlled operations and service delivery.
+
+CLIP 02 | 00:10–00:20 | 10 seconds
+NARRATION:
+The business needs include aircraft programmes, engineering, manufacturing, fleet operations, customer support, and enterprise applications.
+
+----------------------------------------------------------------------
+STEP 2 — PRIVATE, PUBLIC, AND HYBRID CLOUD
+Sequence: 00:20–00:40 | Duration: 20 seconds
+Show / highlight: Three large cloud illustrations
+
+CLIP 03 | 00:20–00:30 | 10 seconds
+NARRATION:
+Private Cloud provides a controlled environment. Public Cloud adds provider services, shown here as AWS and Google Cloud.
+
+CLIP 04 | 00:30–00:40 | 10 seconds
+NARRATION:
+Hybrid Cloud Services connect both environments, allowing teams to coordinate operations while choosing an appropriate location for each workload.
+
+----------------------------------------------------------------------
+STEP 3 — START WITH A REQUEST OR EVENT
+Sequence: 00:40–01:00 | Duration: 20 seconds
+Show / highlight: Requests & Events
+
+CLIP 05 | 00:40–00:50 | 10 seconds
+NARRATION:
+The workflow starts with a service request, an alert, or a scheduled job entering the Requests and Events stage.
+
+CLIP 06 | 00:50–01:00 | 10 seconds
+NARRATION:
+For example, a business application needs more database storage. The request records the affected service, required capacity, and business need.
+
+----------------------------------------------------------------------
+STEP 4 — CRE ROUTES THE REQUEST; SPECIALISTS ASSESS IT
+Sequence: 01:00–01:20 | Duration: 20 seconds
+Show / highlight: CRE Agent, CMDB, and Assess & Plan
+
+CLIP 07 | 01:00–01:10 | 10 seconds
+NARRATION:
+During Assess and Plan, the CRE Agent identifies the appropriate teams and routes the request with the available context.
+
+CLIP 08 | 01:10–01:20 | 10 seconds
+NARRATION:
+Database and storage specialists assess capacity and dependencies. CMDB context helps identify the affected services and responsible owners.
+
+----------------------------------------------------------------------
+STEP 5 — CHOOSE THE RELEVANT SPECIALIST AGENTS
+Sequence: 01:20–01:40 | Duration: 20 seconds
+Show / highlight: Cloud Agent, Compute, OCP Agent, Mainframe Agent, DB Assistant, NAS Storage, and Backup
+
+CLIP 09 | 01:20–01:30 | 10 seconds
+NARRATION:
+Cloud Agent, Compute, OCP Agent, and Mainframe Agent support their respective environments. Only the relevant specialists join each workflow.
+
+CLIP 10 | 01:30–01:40 | 10 seconds
+NARRATION:
+DB Assistant, NAS Storage, and Backup cover their specialist areas. Our example needs coordinated database and storage checks.
+
+----------------------------------------------------------------------
+STEP 6 — COORDINATE OPERATIONAL SUPPORT
+Sequence: 01:40–02:00 | Duration: 20 seconds
+Show / highlight: Automation, Control-M, R2P, Cyber Security, FinOps, CRE Agent, CMDB, and ITIL Change Process Agent
+
+CLIP 11 | 01:40–01:50 | 10 seconds
+NARRATION:
+Automation, Control-M, and R2P support their configured workflows. Cyber Security considers relevant security requirements, while FinOps reviews cost implications.
+
+CLIP 12 | 01:50–02:00 | 10 seconds
+NARRATION:
+CRE coordinates team support, CMDB supplies service context, and the ITIL Change Process Agent supports the required change process.
+
+----------------------------------------------------------------------
+STEP 7 — CHECK POLICIES AND OBTAIN REQUIRED APPROVAL
+Sequence: 02:00–02:20 | Duration: 20 seconds
+Show / highlight: Policy & Approval, ITIL Change Process Agent, and Human Governance
+
+CLIP 13 | 02:00–02:10 | 10 seconds
+NARRATION:
+At Policy and Approval, the proposed action is checked against policies, permitted scope, required authorizations, and the change window.
+
+CLIP 14 | 02:10–02:20 | 10 seconds
+NARRATION:
+The ITIL Change Process Agent helps organize change information and approvals. Human Governance keeps people accountable for critical decisions.
+
+----------------------------------------------------------------------
+STEP 8 — EXECUTE WITH WORKFLOW CONTROLS
+Sequence: 02:20–02:40 | Duration: 20 seconds
+Show / highlight: Execute, Approved Runbooks, and Workflow Control & Recovery
+
+CLIP 15 | 02:20–02:30 | 10 seconds
+NARRATION:
+Authorized agents follow approved runbooks. Saved progress tracks each step, while resource locks help prevent conflicting actions.
+
+CLIP 16 | 02:30–02:40 | 10 seconds
+NARRATION:
+Policy gates check whether each action may proceed. Audit evidence records what happened, and controlled retries limit repeated attempts.
+
+----------------------------------------------------------------------
+STEP 9 — VALIDATE THE SERVICE OUTCOME
+Sequence: 02:40–03:00 | Duration: 20 seconds
+Show / highlight: Service Validation and Validate & Recover
+
+CLIP 17 | 02:40–02:50 | 10 seconds
+NARRATION:
+After execution, Service Validation checks actual results. For our example, verify the new capacity and the application's health.
+
+CLIP 18 | 02:50–03:00 | 10 seconds
+NARRATION:
+A successful tool response is only part of the evidence. Close the request after confirming the agreed service outcome.
+
+----------------------------------------------------------------------
+STEP 10 — RECOVER OR ESCALATE WHEN NEEDED
+Sequence: 03:00–03:20 | Duration: 20 seconds
+Show / highlight: Amber recovery branch, CRE routes to incident owner, and Incident & Problem Management
+
+CLIP 19 | 03:00–03:10 | 10 seconds
+NARRATION:
+If validation fails, pause the workflow and check the actual state. Use the approved recovery procedure when it applies.
+
+CLIP 20 | 03:10–03:20 | 10 seconds
+NARRATION:
+CRE routes unresolved issues to the responsible incident owner. Record the recovery outcome, any remaining actions, and ownership.
+
+----------------------------------------------------------------------
+STEP 11 — MEASURE PERFORMANCE AND BUSINESS OUTCOMES
+Sequence: 03:20–03:40 | Duration: 20 seconds
+Show / highlight: Service Performance and Future Operating Model
+
+CLIP 21 | 03:20–03:30 | 10 seconds
+NARRATION:
+Measure performance using Availability, Change Success, Recovery Time, and Request Completion Time to understand service quality and workflow effectiveness.
+
+CLIP 22 | 03:30–03:40 | 10 seconds
+NARRATION:
+Operations Management monitors delivery. Operational Excellence uses evidence to improve reliability, while Service Delivery focuses on completing business requests.
+
+----------------------------------------------------------------------
+STEP 12 — IMPROVE AND RELEASE CONTROLLED UPDATES
+Sequence: 03:40–04:00 | Duration: 20 seconds
+Show / highlight: Measure & Improve and Shared Operational Capabilities
+
+CLIP 23 | 03:40–03:50 | 10 seconds
+NARRATION:
+Incident and Problem Management turns recurring issues into improvements. Agent updates follow Test, Validate, Approve, and Release.
+
+CLIP 24 | 03:50–04:00 | 10 seconds
+NARRATION:
+This proposed model combines specialist automation, team coordination, human governance, and measured improvement to support reliable operations and service delivery.
+
+----------------------------------------------------------------------
+
+WORKFLOW AT A GLANCE
+Request or event → Assess and route → Policy and required approval → Controlled execution → Validate or recover → Measure and improve.
+
+PRESENTATION NOTES
+- This explains the proposed future operating model in the image, not verified current platform behavior.
+- CRE routes requests to appropriate teams and coordinates help; it does not broadcast every request to every team or perform every specialist task.
+- Use only the agents relevant to a particular request. All 15 remain visible in the image.
+- The ITIL Change Process Agent supports change preparation and required approvals; it does not replace the accountable approval authority.
+- An approved action or tool response still needs service validation. Recovery follows an approved procedure when applicable and is not guaranteed to succeed.
+- Only close the request after the agreed outcome is verified; unresolved work retains a responsible owner.
+- Do not reintroduce the removed Unified Cloud Foundation, standalone CRE Agent role box, Human Governance checklist, cloud descriptions, or operating-model bullets.
+
+Narration word count: 447
+End of script.
