@@ -1,0 +1,246 @@
+DIC VISION 2030 — SERVICES FOR ALL PSLs AND AIRBUS COMMERCIAL
+Recommended narration: introduce the DIC mission, then explain the end-user service experience
+Format: 24 separate clips, exactly 10 seconds each; planned total: 4 minutes
+Revised: 25 November 2026
+
+RECOMMENDED STORY
+1. State the DIC Vision 2030 mission and whom it serves.
+2. Explain what the proposed vision would mean to end users.
+3. Acknowledge today's manual service delivery and introduce the proposed agentic AI architecture.
+4. Follow one business request through clarification, CRE coordination, planning, approval, and controlled execution.
+5. Explain what the user would receive: a validated service, access details, support information, and clear ownership.
+6. Close with continuing support, improvement, and the intended benefits.
+
+CORE MESSAGE
+Our DIC Vision 2030 aims to provide cloud services to all PSLs and Airbus Commercial. The proposed agentic AI architecture would coordinate service delivery and automate approved work, with accountable teams and human oversight.
+The intended end-user experience is easier requests, coordinated delivery, clear progress, verified outcomes, and continuing support.
+
+HOW TO RECORD OR GENERATE
+- Use ONE clip at a time and set its duration to 10 seconds.
+- Join the 24 exact ten-second clips in order with straight cuts for a four-minute video.
+- Speak only the NARRATION text; do not read titles, timings, or visual directions aloud.
+- Use the same clear English voice throughout. Keep a natural pace and hold the image if the narration ends early.
+- Pronounce DIC as D-I-C, 2030 as twenty thirty, PSLs as P-S-Ls, CRE as C-R-E, CMDB as C-M-D-B, and ITIL as eye-till.
+- Keep the story framed as a proposed 2030 vision. Future service capabilities are described with 'would' and intended benefits with 'aim'.
+- Use the latest image with enlarged clouds and an aircraft/manufacturing-plant background.
+- Highlight only relevant specialists while keeping all 15 agents in the original grid.
+- Keep the removed Unified Cloud Foundation, standalone CRE Agent role box, Human Governance checklist, cloud descriptions, and operating-model bullet points out of the video.
+- Preserve the CRE routing labels, compact Human Governance, approval connections, recovery route, and service-performance measures.
+- Use gentle cyan service highlights, purple approval highlights, and amber exception highlights.
+
+NARRATION LENGTH: 457 written words across 24 clips; 15–21 written words per clip.
+
+======================================================================
+CLIP 01 — INTRODUCE DIC VISION 2030
+Timeline: 00:00–00:10 | Duration: exactly 10 seconds
+Visual focus: Show the DIC title and Future Vision heading, with the Business Needs panel visible.
+
+NARRATION:
+Our DIC Vision 2030 aims to provide cloud services to all PSLs and Airbus Commercial.
+
+----------------------------------------------------------------------
+CLIP 02 — EXPLAIN THE BENEFIT TO END USERS
+Timeline: 00:10–00:20 | Duration: exactly 10 seconds
+Visual focus: Show the complete service journey and Service Delivery outcome.
+
+NARRATION:
+For end users, this would mean easier service requests, coordinated delivery, clear ownership, and support after the service goes live.
+
+----------------------------------------------------------------------
+CLIP 03 — EXPLAIN TODAY’S MANUAL DELIVERY
+Timeline: 00:20–00:30 | Duration: exactly 10 seconds
+Visual focus: Highlight Requests & Events, Policy & Approval, Execute, and Validate & Recover as stages currently coordinated manually.
+
+NARRATION:
+Today, our teams manually coordinate requirements, approvals, implementation, validation, and handover across the service delivery process.
+
+----------------------------------------------------------------------
+CLIP 04 — INTRODUCE THE PROPOSED AGENTIC APPROACH
+Timeline: 00:30–00:40 | Duration: exactly 10 seconds
+Visual focus: Highlight Agentic AI & AIOps Orchestration and Human Governance.
+
+NARRATION:
+Our proposed agentic AI architecture would coordinate this work, automate approved routine tasks, and keep people responsible for decisions and exceptions.
+
+----------------------------------------------------------------------
+CLIP 05 — START WITH THE END USER’S NEED
+Timeline: 00:40–00:50 | Duration: exactly 10 seconds
+Visual focus: Highlight Requests & Events.
+
+NARRATION:
+Imagine you need a new application environment, more storage, or a database. You would begin by describing the business requirement.
+
+----------------------------------------------------------------------
+CLIP 06 — INTRODUCE ONE COMPLETE SERVICE EXAMPLE
+Timeline: 00:50–01:00 | Duration: exactly 10 seconds
+Visual focus: Highlight Manufacturing & Supply Chain and the service request stage.
+
+NARRATION:
+For our example, a manufacturing team would request an application environment with computing capacity, a database, storage, backup, and monitoring.
+
+----------------------------------------------------------------------
+CLIP 07 — CLARIFY REQUIREMENTS WITH THE REQUESTER
+Timeline: 01:00–01:10 | Duration: exactly 10 seconds
+Visual focus: Move from Requests & Events toward Assess & Plan.
+
+NARRATION:
+Agents would clarify capacity, availability, delivery expectations, and ownership, confirming missing details with the requester before preparing the plan.
+
+----------------------------------------------------------------------
+CLIP 08 — CRE COORDINATES THE RIGHT SPECIALISTS
+Timeline: 01:10–01:20 | Duration: exactly 10 seconds
+Visual focus: Highlight CRE Agent and CRE team routing under Assess & Plan.
+
+NARRATION:
+CRE would bring together the appropriate specialists and teams, sharing the same request information so everyone works toward the agreed outcome.
+
+----------------------------------------------------------------------
+CLIP 09 — PREPARE ONE SERVICE DELIVERY PLAN
+Timeline: 01:20–01:30 | Duration: exactly 10 seconds
+Visual focus: Highlight Cloud Agent, Compute, DB Assistant, and NAS Storage.
+
+NARRATION:
+Cloud, Compute, database, and storage specialists would prepare one delivery plan, covering the environment, required resources, dependencies, and task order.
+
+----------------------------------------------------------------------
+CLIP 10 — INCLUDE SECURITY, PROTECTION, AND COST
+Timeline: 01:30–01:40 | Duration: exactly 10 seconds
+Visual focus: Highlight Cyber Security, Backup, and FinOps.
+
+NARRATION:
+Cyber Security, Backup, and FinOps would contribute security controls, protection requirements, and cost considerations before the plan moves forward.
+
+----------------------------------------------------------------------
+CLIP 11 — PREPARE THE CHANGE FOR REVIEW
+Timeline: 01:40–01:50 | Duration: exactly 10 seconds
+Visual focus: Highlight ITIL Change Process Agent and Policy & Approval.
+
+NARRATION:
+The ITIL Change Process Agent would help prepare the change details, validation checks, and recovery plan for the required review.
+
+----------------------------------------------------------------------
+CLIP 12 — OBTAIN REQUIRED AUTHORIZATION
+Timeline: 01:50–02:00 | Duration: exactly 10 seconds
+Visual focus: Highlight Human Governance, Approved scope & change window, and purple approval connections.
+
+NARRATION:
+The responsible people would review the change, confirm the permitted scope, and authorize work within the agreed change window.
+
+----------------------------------------------------------------------
+CLIP 13 — DELIVER USING APPROVED AUTOMATION
+Timeline: 02:00–02:10 | Duration: exactly 10 seconds
+Visual focus: Highlight Execute and Approved Runbooks.
+
+NARRATION:
+Once authorized, agents would use approved tools and runbooks to create resources and configure the service in the correct sequence.
+
+----------------------------------------------------------------------
+CLIP 14 — CONTROL PROGRESS AND EXCEPTIONS
+Timeline: 02:10–02:20 | Duration: exactly 10 seconds
+Visual focus: Highlight Workflow Control & Recovery.
+
+NARRATION:
+The workflow would track progress, check policies, manage conflicting actions, and pause affected tasks when an issue needs investigation.
+
+----------------------------------------------------------------------
+CLIP 15 — PREPARE THE SERVICE FOR OPERATION
+Timeline: 02:20–02:30 | Duration: exactly 10 seconds
+Visual focus: Highlight Cyber Security, Backup, Control-M, and Service Performance.
+
+NARRATION:
+Security, backup, and required scheduled jobs would be configured, with monitoring connected to support the service after handover.
+
+----------------------------------------------------------------------
+CLIP 16 — KEEP THE REQUESTER INFORMED
+Timeline: 02:30–02:40 | Duration: exactly 10 seconds
+Visual focus: Frame the service journey, CRE Agent, and the relevant specialist cards together.
+
+NARRATION:
+You would receive progress updates and know the responsible team, helping you understand the request's status and any required actions.
+
+----------------------------------------------------------------------
+CLIP 17 — VALIDATE THE COMPLETE SERVICE
+Timeline: 02:40–02:50 | Duration: exactly 10 seconds
+Visual focus: Highlight Service Validation and Validate & Recover.
+
+NARRATION:
+Before handover, agents would validate connectivity, capacity, security, and backup readiness against the checks agreed with the service owner.
+
+----------------------------------------------------------------------
+CLIP 18 — HAND OVER WHAT THE USER NEEDS
+Timeline: 02:50–03:00 | Duration: exactly 10 seconds
+Visual focus: Highlight Service Delivery and the final journey stages.
+
+NARRATION:
+You would receive a validated environment, access details, support contacts, and delivery evidence, with clear ownership for continuing support.
+
+----------------------------------------------------------------------
+CLIP 19 — RECORD CONFIGURATION AND OWNERSHIP
+Timeline: 03:00–03:10 | Duration: exactly 10 seconds
+Visual focus: Highlight the CMDB agent card.
+
+NARRATION:
+CMDB would be updated with the delivered configuration, dependencies, and ownership, keeping service information available for future support.
+
+----------------------------------------------------------------------
+CLIP 20 — CONFIRM COMPLETION WITH SUPPORT READY
+Timeline: 03:10–03:20 | Duration: exactly 10 seconds
+Visual focus: Highlight Measure & Improve and Service Delivery.
+
+NARRATION:
+The request would close after the agreed service outcome is confirmed, with support arrangements ready for the business to use.
+
+----------------------------------------------------------------------
+CLIP 21 — CONTINUE SUPPORTING THE SERVICE
+Timeline: 03:20–03:30 | Duration: exactly 10 seconds
+Visual focus: Highlight Requests & Events, Service Performance, and the amber recovery branch.
+
+NARRATION:
+After delivery, agents would assess alerts and requests, check the actual service state, and perform approved recovery where appropriate.
+
+----------------------------------------------------------------------
+CLIP 22 — BRING IN THE RIGHT HELP WHEN NEEDED
+Timeline: 03:30–03:40 | Duration: exactly 10 seconds
+Visual focus: Highlight CRE routes to incident owner and Incident & Problem Management.
+
+NARRATION:
+CRE would coordinate additional help and route unresolved issues to the responsible incident owner, keeping ownership clear throughout recovery.
+
+----------------------------------------------------------------------
+CLIP 23 — MEASURE AND IMPROVE THE EXPERIENCE
+Timeline: 03:40–03:50 | Duration: exactly 10 seconds
+Visual focus: Highlight all four Service Performance labels and Measure & Improve.
+
+NARRATION:
+We would use availability, change success, recovery time, and request completion measures to improve runbooks and future service delivery.
+
+----------------------------------------------------------------------
+CLIP 24 — CLOSE WITH THE VISION FOR OUR USERS
+Timeline: 03:50–04:00 | Duration: exactly 10 seconds
+Visual focus: Return to the full image and the DIC Future Vision title.
+
+NARRATION:
+Our aim is simple: easier requests, faster delivery, and reliable support for all PSLs and Airbus Commercial.
+
+----------------------------------------------------------------------
+
+CONTINUOUS READ-THROUGH
+DIC MISSION, END-USER VALUE, AND THE PROPOSED 2030 CHANGE
+Our DIC Vision 2030 aims to provide cloud services to all PSLs and Airbus Commercial. For end users, this would mean easier service requests, coordinated delivery, clear ownership, and support after the service goes live. Today, our teams manually coordinate requirements, approvals, implementation, validation, and handover across the service delivery process. Our proposed agentic AI architecture would coordinate this work, automate approved routine tasks, and keep people responsible for decisions and exceptions.
+
+WHAT THE END USER REQUESTS AND HOW CRE COORDINATES
+Imagine you need a new application environment, more storage, or a database. You would begin by describing the business requirement. For our example, a manufacturing team would request an application environment with computing capacity, a database, storage, backup, and monitoring. Agents would clarify capacity, availability, delivery expectations, and ownership, confirming missing details with the requester before preparing the plan. CRE would bring together the appropriate specialists and teams, sharing the same request information so everyone works toward the agreed outcome.
+
+ONE DELIVERY PLAN AND THE REQUIRED APPROVALS
+Cloud, Compute, database, and storage specialists would prepare one delivery plan, covering the environment, required resources, dependencies, and task order. Cyber Security, Backup, and FinOps would contribute security controls, protection requirements, and cost considerations before the plan moves forward. The ITIL Change Process Agent would help prepare the change details, validation checks, and recovery plan for the required review. The responsible people would review the change, confirm the permitted scope, and authorize work within the agreed change window.
+
+CONTROLLED EXECUTION AND A CLEAR USER EXPERIENCE
+Once authorized, agents would use approved tools and runbooks to create resources and configure the service in the correct sequence. The workflow would track progress, check policies, manage conflicting actions, and pause affected tasks when an issue needs investigation. Security, backup, and required scheduled jobs would be configured, with monitoring connected to support the service after handover. You would receive progress updates and know the responsible team, helping you understand the request's status and any required actions.
+
+VALIDATED SERVICE HANDOVER AND OWNERSHIP
+Before handover, agents would validate connectivity, capacity, security, and backup readiness against the checks agreed with the service owner. You would receive a validated environment, access details, support contacts, and delivery evidence, with clear ownership for continuing support. CMDB would be updated with the delivered configuration, dependencies, and ownership, keeping service information available for future support. The request would close after the agreed service outcome is confirmed, with support arrangements ready for the business to use.
+
+CONTINUING SUPPORT AND IMPROVEMENT
+After delivery, agents would assess alerts and requests, check the actual service state, and perform approved recovery where appropriate. CRE would coordinate additional help and route unresolved issues to the responsible incident owner, keeping ownership clear throughout recovery. We would use availability, change success, recovery time, and request completion measures to improve runbooks and future service delivery. Our aim is simple: easier requests, faster delivery, and reliable support for all PSLs and Airbus Commercial.
+
+End of recommended DIC Vision 2030 narration.
